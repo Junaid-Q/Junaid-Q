@@ -1,25 +1,25 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Dr. Junaid Qadir — AI, cybersecurity, robotics and intelligent systems researcher" />
+<img src="./assets/hero.svg?v=restored-20260820" width="100%" alt="Dr. Junaid Qadir — AI, cybersecurity, robotics and intelligent systems researcher" />
 
 <br/>
 
 [![Website](https://img.shields.io/badge/INTERACTIVE_PORTFOLIO-071421?style=for-the-badge&logo=githubpages&logoColor=00E5FF)](https://junaid-q.github.io/)
 [![Scholar](https://img.shields.io/badge/GOOGLE_SCHOLAR-17132c?style=for-the-badge&logo=googlescholar&logoColor=A980FF)](https://scholar.google.com.pk/citations?user=iJI08F8AAAAJ&hl=en)
-[![ORCID](https://img.shields.io/badge/ORCID-102619?style=for-the-badge&logo=orcid&logoColor=8DFF6A)](https://orcid.org/0000-0002-8456-8458)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-251329?style=for-the-badge&logo=linkedin&logoColor=FF72BE)](https://www.linkedin.com/in/junaid-qadir-ph-d-929ab4b6/)
+[![ORCID](https://img.shields.io/badge/ORCID-0a3025?style=for-the-badge&logo=orcid&logoColor=61F4C8)](https://orcid.org/0000-0002-8456-8458)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-24102c?style=for-the-badge&logo=linkedin&logoColor=FF70C9)](https://www.linkedin.com/in/junaid-q-929ab46b)
 
 <br/>
 
-### `AI · CYBERSECURITY · ROBOTICS · CPS · BIOMEDICAL INTELLIGENCE · 6G`
+`AI · CYBERSECURITY · ROBOTICS · CPS · BIOMEDICAL INTELLIGENCE · 6G`
 
-**Researching intelligent systems where software, humans, networks, and the physical world meet.**
+Researching intelligent systems where software, humans, networks, and the physical world meet.
 
 </div>
 
 <br/>
 
-<img src="./assets/research-spectrum.svg" width="100%" alt="Research spectrum" />
+<img src="./assets/research-spectrum.svg" width="100%" alt="Research spectrum across AI, cybersecurity, robotics, biomedical AI, cyber-physical systems and 6G" />
 
 <br/>
 
@@ -45,16 +45,16 @@ From scientific question → experimental system → measurement → evidence.
 
 </div>
 
-<img src="./assets/skills-galaxy.svg" width="100%" alt="Animated research and engineering skills galaxy" />
+<img src="./assets/skills-galaxy.svg" width="100%" alt="Research and engineering capability map" />
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0D1829?style=for-the-badge&logo=python&logoColor=00E5FF)
-![PyTorch](https://img.shields.io/badge/PyTorch-18132C?style=for-the-badge&logo=pytorch&logoColor=A980FF)
-![Docker](https://img.shields.io/badge/Docker-10242A?style=for-the-badge&logo=docker&logoColor=6EF2D0)
-![NVIDIA](https://img.shields.io/badge/GPU_Computing-152313?style=for-the-badge&logo=nvidia&logoColor=8DFF6A)
-![Linux](https://img.shields.io/badge/Linux-21182A?style=for-the-badge&logo=linux&logoColor=FF72BE)
-![Git](https://img.shields.io/badge/Git-24191A?style=for-the-badge&logo=git&logoColor=FF9670)
+![Python](https://img.shields.io/badge/PYTHON-071421?style=for-the-badge&logo=python&logoColor=00E5FF)
+![PyTorch](https://img.shields.io/badge/PYTORCH-17132c?style=for-the-badge&logo=pytorch&logoColor=A980FF)
+![Docker](https://img.shields.io/badge/DOCKER-092823?style=for-the-badge&logo=docker&logoColor=61F4C8)
+![NVIDIA](https://img.shields.io/badge/GPU_COMPUTING-10240d?style=for-the-badge&logo=nvidia&logoColor=8CFF66)
+![Linux](https://img.shields.io/badge/LINUX-251023?style=for-the-badge&logo=linux&logoColor=FF70C9)
+![Git](https://img.shields.io/badge/GIT-2a1815?style=for-the-badge&logo=git&logoColor=FF9B72)
 
 `AI2-THOR` · `Robotics` · `Ollama` · `Computer Vision` · `LLM/VLM Agents` · `Deep Learning` · `Runtime Security` · `CPS` · `IMU/COP Analytics` · `6G` · `Edge AI`
 
@@ -62,7 +62,7 @@ From scientific question → experimental system → measurement → evidence.
 
 <br/>
 
-<img src="./assets/publications.svg" width="100%" alt="Selected publications and research output" />
+<img src="./assets/publications.svg" width="100%" alt="Selected research and publication highlights" />
 
 <br/>
 
@@ -72,21 +72,21 @@ From scientific question → experimental system → measurement → evidence.
 
 <table>
 <tr>
-<td align="center" width="25%"><h2>17+</h2><sub>PUBLICATIONS</sub></td>
-<td align="center" width="25%"><h2>10</h2><sub>COUNTRIES COLLABORATED</sub></td>
-<td align="center" width="25%"><h2>12</h2><sub>INSTITUTIONS</sub></td>
-<td align="center" width="25%"><h2>🏆</h2><sub>BEST PAPER AWARD</sub></td>
+<td align="center" width="150"><h3>17+</h3><sub>PUBLICATIONS</sub></td>
+<td align="center" width="150"><h3>10</h3><sub>COUNTRIES<br/>COLLABORATED</sub></td>
+<td align="center" width="150"><h3>12</h3><sub>INSTITUTIONS</sub></td>
+<td align="center" width="150"><h3>🏆</h3><sub>BEST PAPER<br/>AWARD</sub></td>
 </tr>
 </table>
 
-**Sweden · Italy · Pakistan · Spain · Portugal · Morocco · Serbia · Japan · United Kingdom · UAE**
+<sub>Sweden · Italy · Pakistan · Spain · Portugal · Morocco · Serbia · Japan · United Kingdom · UAE</sub>
 
-<br/>
+<br/><br/>
 
-[![Publications](https://img.shields.io/badge/PUBLICATIONS-Explore-102035?style=for-the-badge&logo=readthedocs&logoColor=00E5FF)](https://junaid-q.github.io/publications.html)
-[![Research](https://img.shields.io/badge/RESEARCH-Projects-1A1630?style=for-the-badge&logo=researchgate&logoColor=B58CFF)](https://junaid-q.github.io/research.html)
-[![Projects](https://img.shields.io/badge/PROJECTS-Systems-29162A?style=for-the-badge&logo=github&logoColor=FF79C6)](https://junaid-q.github.io/projects.html)
-[![CV](https://img.shields.io/badge/CV-Full_Profile-152B1D?style=for-the-badge&logo=academia&logoColor=8DFF6A)](https://junaid-q.github.io/Junaid_Qadir_CV.pdf)
+[![Publications](https://img.shields.io/badge/📚_PUBLICATIONS-071421?style=for-the-badge)](https://junaid-q.github.io/#publications)
+[![Research](https://img.shields.io/badge/⚯_RESEARCH-17132c?style=for-the-badge)](https://junaid-q.github.io/#research)
+[![Projects](https://img.shields.io/badge/●_PROJECTS-24102c?style=for-the-badge)](https://junaid-q.github.io/#projects)
+[![CV](https://img.shields.io/badge/▲_CV-0a3025?style=for-the-badge)](https://junaid-q.github.io/#cv)
 
 </div>
 
@@ -94,17 +94,23 @@ From scientific question → experimental system → measurement → evidence.
 
 ### ✦ Research Philosophy
 
-> ### **Build systems that matter. Understand how they fail. Make them worthy of trust.**
+> **Build systems that matter. Understand how they fail. Make them worthy of trust.**
 
-My work is most interesting to me where **intelligence, sensing, communication, security, and the physical world intersect** — where elegant ideas must survive contact with actual systems, imperfect information, constrained resources, and real consequences.
+My work is most interesting to me where intelligence, sensing, communication, security, and the physical world intersect — where elegant ideas must survive contact with actual systems, imperfect information, constrained resources, and real consequences.
 
----
+<br/>
 
 <div align="center">
 
-### 🌌 `RESEARCH · BUILD · TEST · UNDERSTAND · IMPROVE`
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,25:7C5CFF,50:FF4FD8,75:FFB86B,100:8CFF66" width="100%" />
 
-**AI** ✦ **CYBERSECURITY** ✦ **ROBOTICS** ✦ **CPS** ✦ **BIOMEDICAL INTELLIGENCE** ✦ **6G**
+<br/>
+
+### `RESEARCH · BUILD · TEST · UNDERSTAND · IMPROVE`
+
+**Postdoctoral Researcher · Örebro University · Sweden**
+
+`AI` · `SECURITY` · `ROBOTICS` · `CPS` · `BIOMEDICAL INTELLIGENCE` · `6G`
 
 <br/>
 
