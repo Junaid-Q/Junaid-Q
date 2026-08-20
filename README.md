@@ -1,42 +1,51 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Dr. Junaid Qadir — Researcher in AI, cybersecurity and intelligent systems" />
+<img src="./assets/hero.svg" width="100%" alt="Dr. Junaid Qadir — AI, cybersecurity, robotics and intelligent systems researcher" />
 
 <br/>
 
-[![Website](https://img.shields.io/badge/INTERACTIVE_PORTFOLIO-0b1220?style=for-the-badge&logo=githubpages&logoColor=00E5FF)](https://junaid-q.github.io/)
+[![Website](https://img.shields.io/badge/INTERACTIVE_PORTFOLIO-071421?style=for-the-badge&logo=githubpages&logoColor=00E5FF)](https://junaid-q.github.io/)
 [![Scholar](https://img.shields.io/badge/GOOGLE_SCHOLAR-17132c?style=for-the-badge&logo=googlescholar&logoColor=A980FF)](https://scholar.google.com.pk/citations?user=iJI08F8AAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-102619?style=for-the-badge&logo=orcid&logoColor=8DFF6A)](https://orcid.org/0000-0002-8456-8458)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-251329?style=for-the-badge&logo=linkedin&logoColor=FF72BE)](https://www.linkedin.com/in/junaid-qadir-ph-d-929ab4b6/)
+
+<br/>
+
+### `AI · CYBERSECURITY · ROBOTICS · CPS · BIOMEDICAL INTELLIGENCE · 6G`
+
+**Researching intelligent systems where software, humans, networks, and the physical world meet.**
 
 </div>
 
 <br/>
 
-<img src="./assets/research-spectrum.svg" width="100%" alt="Research spectrum across AI, cybersecurity, robotics, biomedical AI, CPS and 6G" />
+<img src="./assets/research-spectrum.svg" width="100%" alt="Research spectrum" />
 
-## ✦ Research Identity
+<br/>
 
-I work across **artificial intelligence, cybersecurity, embodied intelligence, cyber-physical systems, biomedical sensing, and next-generation communication networks**. My research is connected by one theme: understanding how intelligent systems behave when they leave controlled environments and must operate under real-world constraints.
+<div align="center">
 
-<table>
-<tr>
-<td width="33%" align="center">
-<h3>🧠 Intelligence</h3>
-Machine learning<br/>Deep learning<br/>LLM/VLM agents<br/>Sensor analytics
-</td>
-<td width="33%" align="center">
-<h3>🛡️ Security</h3>
-AI security<br/>Cyber-physical resilience<br/>Runtime protection<br/>Trustworthy autonomy
-</td>
-<td width="33%" align="center">
-<h3>🌍 Real-World Systems</h3>
-Robotics<br/>Biomedical sensing<br/>6G / edge intelligence<br/>Autonomous platforms
-</td>
-</tr>
-</table>
+### ✦ Research Identity
 
-## ✦ Research & Engineering Stack
+I work across **artificial intelligence, cybersecurity, embodied intelligence, cyber-physical systems, biomedical sensing, and next-generation networks**. The common thread is systems research: taking intelligent methods out of controlled settings and testing whether they remain **useful, secure, resilient, and trustworthy** in the real world.
+
+</div>
+
+<br/>
+
+<img src="./assets/research-domains.svg" width="100%" alt="Research domains across AI, cybersecurity, biomedical intelligence and future networks" />
+
+<br/>
+
+<div align="center">
+
+### ✦ Research & Engineering
+
+From scientific question → experimental system → measurement → evidence.
+
+</div>
+
+<img src="./assets/skills-galaxy.svg" width="100%" alt="Animated research and engineering skills galaxy" />
 
 <div align="center">
 
@@ -47,62 +56,47 @@ Robotics<br/>Biomedical sensing<br/>6G / edge intelligence<br/>Autonomous platfo
 ![Linux](https://img.shields.io/badge/Linux-21182A?style=for-the-badge&logo=linux&logoColor=FF72BE)
 ![Git](https://img.shields.io/badge/Git-24191A?style=for-the-badge&logo=git&logoColor=FF9670)
 
-<br/>
-
 `AI2-THOR` · `Robotics` · `Ollama` · `Computer Vision` · `LLM/VLM Agents` · `Deep Learning` · `Runtime Security` · `CPS` · `IMU/COP Analytics` · `6G` · `Edge AI`
 
 </div>
 
 <br/>
 
-<img src="./assets/publications.svg" width="100%" alt="Selected research output and recent publications" />
-
-## ✦ Research Domains
-
-<table>
-<tr>
-<td width="50%">
-<h3>🤖 AI & Autonomous Systems</h3>
-Intelligent agents, embodied AI, multi-agent systems, vision-language models, and physical-world autonomy.
-</td>
-<td width="50%">
-<h3>🔐 Cybersecurity</h3>
-Security of AI-enabled systems, adversarial behavior, runtime enforcement, resilient CPS, and trustworthy autonomy.
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3>🩺 Biomedical Intelligence</h3>
-Wearable sensing, IMU/COP analytics, deep learning for human movement, balance assessment, and eHealth.
-</td>
-<td width="50%">
-<h3>📡 Future Networks</h3>
-6G, AI agents in communication systems, edge intelligence, energy-aware systems, and critical infrastructure resilience.
-</td>
-</tr>
-</table>
-
-## ✦ Academic Footprint
-
-<div align="center">
-
-**Sweden · Italy · Pakistan · International Collaborations**  
-Research experience spanning **AI, communications, cybersecurity, signal processing, robotics, and biomedical sensing**.
+<img src="./assets/publications.svg" width="100%" alt="Selected publications and research output" />
 
 <br/>
 
-[![Publications](https://img.shields.io/badge/PUBLICATIONS-Explore-102035?style=flat-square&logo=readthedocs&logoColor=00E5FF)](https://junaid-q.github.io/publications.html)
-[![Research](https://img.shields.io/badge/RESEARCH-Projects-1A1630?style=flat-square&logo=researchgate&logoColor=B58CFF)](https://junaid-q.github.io/research.html)
-[![Projects](https://img.shields.io/badge/PROJECTS-Systems-29162A?style=flat-square&logo=github&logoColor=FF79C6)](https://junaid-q.github.io/projects.html)
-[![CV](https://img.shields.io/badge/CV-Full_Profile-152B1D?style=flat-square&logo=academia&logoColor=8DFF6A)](https://junaid-q.github.io/Junaid_Qadir_CV.pdf)
+<div align="center">
+
+### ✦ Academic Footprint
+
+<table>
+<tr>
+<td align="center" width="25%"><h2>17+</h2><sub>PUBLICATIONS</sub></td>
+<td align="center" width="25%"><h2>10</h2><sub>COUNTRIES COLLABORATED</sub></td>
+<td align="center" width="25%"><h2>12</h2><sub>INSTITUTIONS</sub></td>
+<td align="center" width="25%"><h2>🏆</h2><sub>BEST PAPER AWARD</sub></td>
+</tr>
+</table>
+
+**Sweden · Italy · Pakistan · Spain · Portugal · Morocco · Serbia · Japan · United Kingdom · UAE**
+
+<br/>
+
+[![Publications](https://img.shields.io/badge/PUBLICATIONS-Explore-102035?style=for-the-badge&logo=readthedocs&logoColor=00E5FF)](https://junaid-q.github.io/publications.html)
+[![Research](https://img.shields.io/badge/RESEARCH-Projects-1A1630?style=for-the-badge&logo=researchgate&logoColor=B58CFF)](https://junaid-q.github.io/research.html)
+[![Projects](https://img.shields.io/badge/PROJECTS-Systems-29162A?style=for-the-badge&logo=github&logoColor=FF79C6)](https://junaid-q.github.io/projects.html)
+[![CV](https://img.shields.io/badge/CV-Full_Profile-152B1D?style=for-the-badge&logo=academia&logoColor=8DFF6A)](https://junaid-q.github.io/Junaid_Qadir_CV.pdf)
 
 </div>
 
-## ✦ Research Philosophy
+<br/>
+
+### ✦ Research Philosophy
 
 > ### **Build systems that matter. Understand how they fail. Make them worthy of trust.**
 
-I am most interested in research at the intersection of **intelligence, sensing, communication, security, and the physical world** — where elegant ideas must survive contact with real systems.
+My work is most interesting to me where **intelligence, sensing, communication, security, and the physical world intersect** — where elegant ideas must survive contact with actual systems, imperfect information, constrained resources, and real consequences.
 
 ---
 
