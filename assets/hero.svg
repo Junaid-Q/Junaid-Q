@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">Dr. Junaid Qadir — AI Security Researcher</title>
+<desc id="desc">Animated scientific network and particle field representing embodied AI, cybersecurity, and trustworthy intelligent systems.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#05070b"/><stop offset="0.55" stop-color="#0b1118"/><stop offset="1" stop-color="#07100b"/></linearGradient>
+  <radialGradient id="halo" cx="50%" cy="45%" r="55%"><stop offset="0" stop-color="#76b900" stop-opacity=".22"/><stop offset=".45" stop-color="#42d392" stop-opacity=".08"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#76b900" stop-opacity=".05"/><stop offset=".5" stop-color="#8dfc4d" stop-opacity=".9"/><stop offset="1" stop-color="#76b900" stop-opacity=".05"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="soft"><feGaussianBlur stdDeviation="16"/></filter>
+  <style>
+    .grid{stroke:#7da36f;stroke-opacity:.09;stroke-width:1}.edge{stroke:url(#line);stroke-width:1.2;fill:none;stroke-dasharray:5 9;animation:dash 8s linear infinite}.node{fill:#a7ff6a;filter:url(#glow)}.tiny{fill:#d8ffd0;opacity:.72}.label{font:600 15px ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:2px;fill:#9ad87d}.name{font:700 48px Inter,Segoe UI,Arial,sans-serif;fill:#f4f7f5;letter-spacing:.4px}.role{font:500 19px Inter,Segoe UI,Arial,sans-serif;fill:#c4cec8}.accent{fill:#9eea63}.micro{font:500 13px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#7f9588;letter-spacing:1.4px}.orbit{fill:none;stroke:#76b900;stroke-opacity:.22;stroke-width:1}.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.8s ease-in-out infinite}.float1{animation:f1 7s ease-in-out infinite}.float2{animation:f2 9s ease-in-out infinite}.blink{animation:blink 3s ease-in-out infinite}.scan{animation:scan 5s linear infinite}
+    @keyframes dash{to{stroke-dashoffset:-140}}@keyframes pulse{0%,100%{opacity:.45;transform:scale(.82)}50%{opacity:1;transform:scale(1.28)}}@keyframes f1{0%,100%{transform:translate(0,0)}50%{transform:translate(7px,-10px)}}@keyframes f2{0%,100%{transform:translate(0,0)}50%{transform:translate(-9px,7px)}}@keyframes blink{0%,100%{opacity:.2}45%{opacity:.95}}@keyframes scan{0%{transform:translateX(-360px)}100%{transform:translateX(1200px)}}
+  </style>
+</defs>
+<rect width="1200" height="420" rx="28" fill="url(#bg)"/>
+<rect width="1200" height="420" rx="28" fill="url(#halo)"/>
+<g opacity=".65">
+  <path class="grid" d="M0 70H1200M0 140H1200M0 210H1200M0 280H1200M0 350H1200M100 0V420M200 0V420M300 0V420M400 0V420M500 0V420M600 0V420M700 0V420M800 0V420M900 0V420M1000 0V420M1100 0V420"/>
+</g>
+<g class="float1">
+  <path class="edge" d="M806 88L940 62L1086 119L1008 221L1117 291L952 345L828 293L735 204L806 88Z"/>
+  <path class="edge" d="M806 88L1008 221L828 293M940 62L952 345M1086 119L828 293M735 204L1117 291"/>
+  <circle class="orbit" cx="940" cy="210" r="118"/><circle class="orbit" cx="940" cy="210" r="78"/>
+  <circle class="node pulse" cx="806" cy="88" r="4"/><circle class="node pulse" cx="940" cy="62" r="5" style="animation-delay:.5s"/><circle class="node pulse" cx="1086" cy="119" r="4" style="animation-delay:1s"/><circle class="node pulse" cx="1008" cy="221" r="6" style="animation-delay:1.5s"/><circle class="node pulse" cx="1117" cy="291" r="4" style="animation-delay:2s"/><circle class="node pulse" cx="952" cy="345" r="5" style="animation-delay:.8s"/><circle class="node pulse" cx="828" cy="293" r="4" style="animation-delay:1.8s"/><circle class="node pulse" cx="735" cy="204" r="5" style="animation-delay:2.4s"/>
+  <circle cx="940" cy="210" r="22" fill="#0f1d12" stroke="#9eea63" stroke-opacity=".7"/><path d="M930 210h20M940 200v20" stroke="#a7ff6a" stroke-width="2" filter="url(#glow)"/>
+</g>
+<g class="float2"><circle class="tiny blink" cx="84" cy="61" r="2"/><circle class="tiny blink" cx="158" cy="103" r="1.7" style="animation-delay:.8s"/><circle class="tiny blink" cx="315" cy="58" r="1.8" style="animation-delay:1.6s"/><circle class="tiny blink" cx="435" cy="91" r="1.5" style="animation-delay:2.2s"/><circle class="tiny blink" cx="575" cy="55" r="1.8" style="animation-delay:.4s"/><circle class="tiny blink" cx="646" cy="116" r="1.4" style="animation-delay:1.2s"/><circle class="tiny blink" cx="544" cy="337" r="1.7" style="animation-delay:1.9s"/><circle class="tiny blink" cx="368" cy="369" r="1.3" style="animation-delay:2.5s"/><circle class="tiny blink" cx="193" cy="334" r="1.6" style="animation-delay:.9s"/><circle class="tiny blink" cx="72" cy="285" r="1.4" style="animation-delay:1.7s"/></g>
+<rect class="scan" x="-260" y="0" width="220" height="420" fill="url(#halo)" opacity=".24"/>
+<g transform="translate(78 92)">
+  <text class="label" x="0" y="0">RESEARCH PROFILE // 2026</text>
+  <text class="name" x="0" y="74">Dr. Junaid Qadir</text>
+  <text class="role" x="0" y="116">Postdoctoral Researcher · Örebro University · WASP</text>
+  <text class="micro" x="0" y="164">AI SECURITY  /  EMBODIED AI  /  TRUSTWORTHY INTELLIGENCE</text>
+  <rect x="0" y="198" width="510" height="1" fill="#76b900" opacity=".55"/>
+  <text class="role" x="0" y="239"><tspan class="accent">Securing intelligent agents</tspan><tspan> that act in the physical world.</tspan></text>
+</g>
+<g transform="translate(78 366)"><circle cx="5" cy="-5" r="4" fill="#76b900" filter="url(#glow)"/><text class="micro" x="20" y="0">CYBERSECURITY FOR EMBODIED AI · CPS · ROBOTICS · SENSOR INTELLIGENCE</text></g>
+</svg>
