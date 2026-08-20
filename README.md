@@ -1,104 +1,102 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Dr. Junaid Qadir — AI Security and Embodied AI Researcher" />
+<img src="./assets/hero.svg" width="100%" alt="Dr. Junaid Qadir — Researcher in AI, cybersecurity and intelligent systems" />
 
 <br/>
 
-### `RESEARCHING THE SECURITY BOUNDARY BETWEEN INTELLIGENCE AND THE PHYSICAL WORLD`
+### `ARTIFICIAL INTELLIGENCE · CYBERSECURITY · INTELLIGENT SYSTEMS`
 
-I study **how AI agents perceive, modify, and inherit physical state** — and how we can make those interactions secure, trustworthy, and resilient.
+Researcher working across **AI, cybersecurity, embodied intelligence, cyber-physical systems, biomedical sensing, and next-generation networks** — building intelligent systems that are useful, secure, resilient, and grounded in real-world problems.
 
-[![Website](https://img.shields.io/badge/INTERACTIVE_PORTFOLIO-0b0f0c?style=for-the-badge&logo=githubpages&logoColor=76B900)](https://junaid-q.github.io/)
-[![GitHub](https://img.shields.io/badge/GITHUB-Junaid--Q-0b0f0c?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Junaid-Q)
+[![Portfolio](https://img.shields.io/badge/INTERACTIVE_PORTFOLIO-0b0f0c?style=for-the-badge&logo=githubpages&logoColor=76B900)](https://junaid-q.github.io/)
+[![ORCID](https://img.shields.io/badge/ORCID-0b0f0c?style=for-the-badge&logo=orcid&logoColor=76B900)](https://orcid.org/0000-0002-8456-8458)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0b0f0c?style=for-the-badge&logo=linkedin&logoColor=76B900)](https://www.linkedin.com/in/junaid-q-929ab46b)
 
 </div>
 
 ---
 
-## ◈ Research Coordinates
+## ◈ Research Spectrum
 
 <table>
 <tr>
-<td width="25%" align="center"><b>🛡️ AI Security</b><br/><sub>Adversarial & runtime security for intelligent agents</sub></td>
-<td width="25%" align="center"><b>🤖 Embodied AI</b><br/><sub>Agents that perceive and act in shared physical worlds</sub></td>
-<td width="25%" align="center"><b>⚙️ Cyber-Physical Systems</b><br/><sub>Security where software decisions become physical effects</sub></td>
-<td width="25%" align="center"><b>🧠 Trustworthy AI</b><br/><sub>Robust, accountable and policy-aware intelligence</sub></td>
+<td width="25%" align="center"><b>🧠 Artificial Intelligence</b><br/><sub>Machine learning · deep learning · intelligent agents</sub></td>
+<td width="25%" align="center"><b>🛡️ Cybersecurity</b><br/><sub>AI security · resilient systems · runtime protection</sub></td>
+<td width="25%" align="center"><b>🤖 Embodied Intelligence</b><br/><sub>Robotics · autonomous agents · physical-world AI</sub></td>
+<td width="25%" align="center"><b>📡 Future Networks</b><br/><sub>6G · edge intelligence · critical infrastructure</sub></td>
+</tr>
+<tr>
+<td width="25%" align="center"><b>🩺 Biomedical AI</b><br/><sub>IMU · COP · movement and sensor analytics</sub></td>
+<td width="25%" align="center"><b>⚙️ Cyber-Physical Systems</b><br/><sub>Intelligence at the cyber/physical boundary</sub></td>
+<td width="25%" align="center"><b>🔬 Trustworthy AI</b><br/><sub>Robustness · safety · accountability</sub></td>
+<td width="25%" align="center"><b>🌐 Agentic Systems</b><br/><sub>LLM/VLM agents · multi-agent intelligence</sub></td>
 </tr>
 </table>
 
-## ◈ Current Research // WORLDGUARD
+## ◈ What I Work On
 
-> **Cross-agent physical-state security in embodied multi-agent systems**
+My research spans several connected layers of intelligent systems:
 
-Modern embodied agents do not interact only through messages. They also communicate **through the world itself**: an action by one agent can leave persistent physical state that changes what another agent sees, decides, and does later.
+**Perception → Learning → Decision → Interaction → Security → Resilience**
 
-**WORLDGUARD** investigates this security boundary — whether individually authorized actions can compose through persistent shared-world state into a globally unauthorized physical outcome, and what runtime information is minimally necessary to prevent it.
+I am particularly interested in systems where AI leaves the laboratory and must operate under real constraints: autonomous agents interacting with physical environments, sensor-driven biomedical intelligence, cyber-physical infrastructure, and AI-native communication systems.
 
-```text
-          LOW-AUTHORITY AGENT                    HIGH-AUTHORITY AGENT
-                  │                                      │
-                  │ locally authorized                   │ locally authorized
-                  ▼                                      ▼
-        ┌──────────────────┐                    ┌──────────────────┐
-        │  PHYSICAL STATE  │ ── persists ────▶ │  LATER ACTION    │
-        └──────────────────┘                    └────────┬─────────┘
-                                                       │
-                                                       ▼
-                                            GLOBAL SECURITY OUTCOME
-                                                       │
-                                             ┌─────────┴─────────┐
-                                             │     WORLDGUARD     │
-                                             │ runtime enforcement│
-                                             └───────────────────┘
-```
-
-<sub>Experimental stack: AI2-THOR · multi-agent embodied systems · local LLM/VLM inference · Docker · runtime policy enforcement.</sub>
-
-## ◈ Research Portfolio
-
-| Track | Scientific question | Focus |
-|---|---|---|
-| **Embodied AI Security** | What new attack surfaces emerge when AI can alter persistent physical state? | Multi-agent security · runtime guards · prompt injection |
-| **Biomedical Intelligence** | How can learning systems extract reliable human-state information from sensing? | IMU · COP · deep learning · movement analytics |
-| **Critical Infrastructure AI** | How should intelligent systems operate under energy, communication and reliability constraints? | 6G · edge intelligence · resilient systems |
-
-## ◈ Selected Research Signals
-
-**2026 · IEEE GLOBECOM** — Deep learning for biomedical sensing with subject-level synthetic augmentation  
-**2026 · Embodied AI Security** — WORLDGUARD: composed physical-state attacks and information-minimal runtime enforcement  
-**Ongoing** — Security of autonomous and agentic systems at the boundary between cyber decisions and physical consequences
-
-## ◈ Experimental Systems
+## ◈ Research & Engineering Toolkit
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=76B900)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=76B900)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=76B900)
-![NVIDIA](https://img.shields.io/badge/NVIDIA_GPU-0d1117?style=flat-square&logo=nvidia&logoColor=76B900)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=76B900)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=76B900)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=76B900)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=76B900)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=76B900)
+![NVIDIA](https://img.shields.io/badge/GPU_COMPUTING-0d1117?style=for-the-badge&logo=nvidia&logoColor=76B900)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=76B900)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=76B900)
 
-`AI2-THOR` · `LLM/VLM Agents` · `Ollama` · `ROS / Robotics` · `Deep Learning` · `Runtime Security` · `Sensor Intelligence`
+`Machine Learning` · `Deep Learning` · `LLM/VLM Agents` · `AI2-THOR` · `Robotics` · `Ollama` · `Computer Vision` · `Sensor Analytics` · `Runtime Security` · `CPS` · `6G` · `Edge AI`
+
+</div>
+
+## ◈ Selected Research Areas
+
+| Domain | Current interests |
+|---|---|
+| **AI & Autonomous Systems** | Intelligent agents, embodied AI, multi-agent systems, LLM/VLM-based autonomy |
+| **Cybersecurity** | Security of AI-enabled systems, runtime protection, adversarial behavior, resilient CPS |
+| **Biomedical Intelligence** | IMU/COP sensing, human movement analysis, deep learning for health applications |
+| **Future Communication Systems** | AI agents in 6G, edge intelligence, energy-aware and resilient infrastructure |
+
+## ◈ Publications & Research Output
+
+My publication record spans **artificial intelligence, cybersecurity, biomedical sensing, communication systems, and intelligent infrastructure**.
+
+**Recent 2026 research includes:**
+
+- **IEEE GLOBECOM 2026** — biomedical deep learning and sensor-based human-state estimation
+- **IEEE GLOBECOM 2026** — 6G networks empowering AI agents
+- Ongoing research in **cybersecurity for embodied and autonomous AI systems**
+
+<div align="center">
+
+[**EXPLORE PUBLICATIONS, PROJECTS & RESEARCH →**](https://junaid-q.github.io/)
 
 </div>
 
 ## ◈ Research Philosophy
 
-> **The interesting failures begin where a model's output stops being text and starts becoming state in the world.**
+> **Build systems that matter. Understand how they fail. Make them worthy of trust.**
 
-My work sits at that boundary: intelligent agents, physical environments, security policy, and the minimum information a system needs to remain safe without destroying useful autonomy.
+I am interested in research that connects rigorous technical ideas with real systems — particularly where intelligence, sensing, communication, security, and the physical world intersect.
 
 ---
 
 <div align="center">
 
-### `BUILD · BREAK · MEASURE · DEFEND`
+### `RESEARCH · BUILD · TEST · UNDERSTAND · IMPROVE`
 
-<sub>Postdoctoral Researcher · Örebro University · Wallenberg AI, Autonomous Systems and Software Program (WASP) · Sweden</sub>
+<sub>Postdoctoral Researcher · Sweden</sub>
 
-<br/><br/>
+<br/>
 
-[**ENTER INTERACTIVE PORTFOLIO →**](https://junaid-q.github.io/)
+**AI · SECURITY · ROBOTICS · CPS · BIOMEDICAL INTELLIGENCE · 6G**
 
 </div>
